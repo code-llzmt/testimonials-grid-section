@@ -2,17 +2,15 @@
 
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+### Screenshot Desktop
+![](screenshot-testimonials-grid-section-desktop.png)
 
-### Screenshot
-![](./screenshot-testimonial-grid-section.png)
+### Screenshot Mobile
+![](screenshot-testimonials-grid-section-mobile.png)
+
 
 ### Links
 
-- Solution URL: [  ]
-- Live Site URL: [ ]
+- Solution URL: [ https://github.com/code-llzmt/testimonials-grid-section.git ]
+- Live Site URL: [ https://code-llzmt.github.io/testimonials-grid-section ]
