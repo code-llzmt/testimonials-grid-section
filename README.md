@@ -6,9 +6,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Screenshot Desktop
 ![](screenshot-testimonials-grid-section-desktop.png)
 
-### Screenshot Mobile
-![](screenshot-testimonials-grid-section-mobile.png)
-
 
 ### Links
 
